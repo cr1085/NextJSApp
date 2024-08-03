@@ -1,0 +1,1 @@
+![Descripción de la imagen](../challenge-0-simple-nft/packages/img/video_para_readme.mp4)
